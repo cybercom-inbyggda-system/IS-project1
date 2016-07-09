@@ -3,7 +3,7 @@
 Simple gaming platform HW and SW
 
 HW developed in KiCad
- - Arduino ATTiny
+ - Atmel ATTiny
  - SPI OLED display
  - Buttons
  - Power
